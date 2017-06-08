@@ -1,5 +1,6 @@
 # Agni GatsbyJS Theme
 <img src="./screenshot.png" alt="screenshot" width="500" />
+
 ## Introduction
 
 Agni is a GatsbyJS theme that supports Disqus comments, Firebase integration, Mailchimp subscriptions, Bitcoin donations and more.
