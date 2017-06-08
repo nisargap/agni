@@ -1,0 +1,18 @@
+siteTitle = "Agni"
+siteDescr = ""
+siteAuthor = "Agni"
+siteImage = ""
+mailChimpSubscribeUrl = ""
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/agni"
+siteGithubUrl = "https://github.com/agni"
+siteEmailUrl = "info@agni.io"
+siteRssUrl = "https://agni.io/rss.xml"
+siteVkUrl = "#"
+
+rootUrl = "https://agni.io"
+disqusShortname = "https-agni-io-1"
+
+googleAnalyticsId = "UA-0000-1"
+
+linkPrefix = "/gatsby-starter-lumen"
